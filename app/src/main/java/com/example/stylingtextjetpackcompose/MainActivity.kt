@@ -83,5 +83,5 @@ class MainActivity : ComponentActivity() {
 NOTES:
 In this I learn how to style the text in the Kotlin Android,
 AS annotated Strings can easily append the text thus, using this, one can easily modify the particular section of the the text, so easily..
-
+Youtube Link: https://www.youtube.com/watch?v=nm_LNJWHi9A&list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC&index=5&pp=iAQB
  */
